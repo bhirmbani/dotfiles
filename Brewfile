@@ -24,7 +24,7 @@ brew 'phantomjs198'
 brew 'redis'
 brew 'libpng'
 
-cask 'sublime-text3'
+cask 'sublime-text-dev'
 cask 'firefox'
 cask 'google-chrome'
 cask 'google-chrome-canary'
