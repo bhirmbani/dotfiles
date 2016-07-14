@@ -7,4 +7,7 @@ atom.symlink/packages
 atom.symlink/storage
 atom.symlink/themes
 
+teamocil.symlink/*
+!teamocil.symlink/sample.yml
+
 git/gitconfig.local.symlink
