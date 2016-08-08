@@ -20,7 +20,7 @@ brew 'dnscrypt-proxy'
 brew 'elasticsearch17'
 brew 'hunspell'
 brew 'mongodb'
-brew 'phantomjs198'
+brew 'phantomjs'
 brew 'redis'
 brew 'libpng'
 
