@@ -23,6 +23,7 @@ brew 'mongodb'
 brew 'phantomjs'
 brew 'redis'
 brew 'libpng'
+brew 'yarn'
 
 cask 'sublime-text-dev'
 cask 'firefox'
