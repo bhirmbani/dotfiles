@@ -13,3 +13,5 @@ gem_install_or_update() {
 
 echo ''
 gem_install_or_update 'teamocil'
+gem_install_or_update 'cp8_cli'
+gem_install_or_update 'git-wayback-machine'
