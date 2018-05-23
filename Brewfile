@@ -20,6 +20,7 @@ brew 'elasticsearch'
 brew 'hunspell'
 brew 'phantomjs'
 brew 'redis'
+brew 'reattach-to-user-namespace'
 brew 'libpng'
 brew 'yarn'
 
